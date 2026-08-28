@@ -8,6 +8,7 @@
 | | 何をするもの | 必要なもの |
 |---|---|---|
 | [notion-research-fill](notion-research-fill/) | Notionに溜めた「あとで調べる」の空欄を、まとめて調べて埋める | Claude Code＋Notion連携 |
+| [daily-blog-report](https://github.com/mifune39428/daily-blog-report) | ブログ・note・SubstackのPVと、AdSense・もしもの収益を毎朝1通のメールで届ける | Mac＋Gmail |
 
 これから増やしていきます。増えたらニュースレターでお知らせします。
 
